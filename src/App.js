@@ -1,22 +1,22 @@
-import logo from './logo.svg';
+import logo from './vlocka1.png';
 import './App.css';
+import Snowfall from 'react-snowfall'
 
 function App() {
   return (
     <div className="App">
+      <Snowfall />
       <header className="App-header">
+      
+      <div className='napis'>
+        <p> Úspěšný nový rok </p>
+        <p> 2022 s Reactem </p>
+        </div> 
+        
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+ 
+
+       
       </header>
     </div>
   );
