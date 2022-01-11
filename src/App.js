@@ -7,12 +7,16 @@ function App() {
     <div className="App">
       <Snowfall />
       <header className="App-header">
-      
-      <div className='napis'>
-        <p> Úspěšný nový rok </p>
-        <p> 2022 s Reactem </p>
-        </div> 
-        
+      <div>
+        <span className='napis1'>P</span> 
+        <span className='napis2'>F</span>
+      </div>
+      <div>
+        <span className='napis3'>2</span> 
+        <span className='napis4'>0</span>
+        <span className='napis5'>2</span> 
+        <span className='napis6'>2</span>
+      </div>
         <img src={logo} className="App-logo" alt="logo" />
  
 
