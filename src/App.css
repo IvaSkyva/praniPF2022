@@ -61,22 +61,24 @@
   position: relative;
   display: inline-block;
   color: #fff;
+  transform: scale(1.5);
   animation: flip 18s;
-  animation-iteration-count: 1;  
+  animation-iteration-count: 1;
+  
 }
 .napis2 {
   position: relative;
   display: inline-block;
   color: #fff;
+  transform: scale(1.5);
   animation: flip 18s;
-  animation-delay: 3s;
   animation-iteration-count: 1;  
 }
 .napis3 {
   position: relative;
   display: inline-block;
   color: #fff;
-  animation: flip 18s;
+  animation: flip 15s;
   animation-delay: 6s;
   animation-iteration-count: 1;  
 }
@@ -84,7 +86,7 @@
   position: relative;
   display: inline-block;
   color: #fff;
-  animation: flip 18s;
+  animation: flip 15s;
   animation-delay: 9s;
   animation-iteration-count: 1;  
 }
@@ -92,7 +94,7 @@
   position: relative;
   display: inline-block;
   color: #fff;
-  animation: flip 18s;
+  animation: flip 15s;
   animation-delay: 12s;
   animation-iteration-count: 1;  
 }
@@ -100,7 +102,7 @@
   position: relative;
   display: inline-block;
   color: #fff;
-  animation: flip 18s;
+  animation: flip 15s;
   animation-delay: 15s;
   animation-iteration-count: 1;  
 }
