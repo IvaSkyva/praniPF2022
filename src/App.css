@@ -30,7 +30,7 @@
 
 .App-logo {
   animation-name: App-logo-spin;
-  animation-duration: 15s;
+  animation-duration: 10s;
   animation-timing-function:linear;
   animation-iteration-count: 1;
    
@@ -73,6 +73,7 @@
   transform: scale(2.5);
   margin-left: 10px;
   animation: flip 18s;
+  animation-delay: 3s;
   animation-iteration-count: 1;  
 }
 .napis3 {
