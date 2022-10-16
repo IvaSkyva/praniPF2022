@@ -71,6 +71,7 @@
   display: inline-block;
   color: #fff;
   transform: scale(2.5);
+  margin-left: 10px;
   animation: flip 18s;
   animation-iteration-count: 1;  
 }
