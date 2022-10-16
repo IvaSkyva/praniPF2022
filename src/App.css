@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Water+Brush&display=swap');
+
 .App {
   text-align: left;
+  font-family: 'Water Brush', cursive;
+
 }
 
 .App-logo {
@@ -73,7 +77,6 @@
   transform: scale(2.5);
   margin-left: 10px;
   animation: flip 18s;
-  animation-delay: 3s;
   animation-iteration-count: 1;  
 }
 .napis3 {
