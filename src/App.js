@@ -1,6 +1,10 @@
+
 import logo from './vlocka1.png';
 import './App.css';
 import Snowfall from 'react-snowfall'
+
+
+
 
 function App() {
   return (
@@ -18,10 +22,16 @@ function App() {
         <span className='napis6'>2</span>
       </div>
         <img src={logo} className="App-logo" alt="logo" />
- 
+        
+      
 
-       
-      </header>
+      </header >
+      
+          
+          
+      
+          
+      
     </div>
   );
 }
